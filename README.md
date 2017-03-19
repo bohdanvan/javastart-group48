@@ -9,6 +9,8 @@ Prog.kiev.ua. Java Start. Группа 48
 
 [Java Start. Богдан. Группа 48. Лекции 5-6 (11.03.2017)](https://prog.kiev.ua/forum/index.php/topic,2820.0.html)
 
+[Java Start. Богдан. Группа 48. Лекции 7-8 (18.03.2017)](https://prog.kiev.ua/forum/index.php/topic,2835.0.html)
+
 ## Видео лекций предыдущих групп
 
 [Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
